@@ -1,0 +1,22 @@
+.square-matriz{
+    margin: 2px;
+    text-align: center;
+}
+#separation{
+    margin: 0;
+}
+hr.y{
+    display: inline;
+    height: 5px;
+    border: 2px dashed black;
+}
+
+.decimals{
+    float: left;
+    padding-right: 5px;
+}
+.x-value{
+    margin: auto;
+    display: inline;
+    padding-left: 20;
+}
